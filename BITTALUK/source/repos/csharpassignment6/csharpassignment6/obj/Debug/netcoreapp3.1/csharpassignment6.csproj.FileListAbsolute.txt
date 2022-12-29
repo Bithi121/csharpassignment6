@@ -1,0 +1,14 @@
+C:\Users\BITTALUK\source\repos\csharpassignment6\csharpassignment6\obj\Debug\netcoreapp3.1\csharpassignment6.csproj.AssemblyReference.cache
+C:\Users\BITTALUK\source\repos\csharpassignment6\csharpassignment6\obj\Debug\netcoreapp3.1\csharpassignment6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BITTALUK\source\repos\csharpassignment6\csharpassignment6\obj\Debug\netcoreapp3.1\csharpassignment6.AssemblyInfoInputs.cache
+C:\Users\BITTALUK\source\repos\csharpassignment6\csharpassignment6\obj\Debug\netcoreapp3.1\csharpassignment6.AssemblyInfo.cs
+C:\Users\BITTALUK\source\repos\csharpassignment6\csharpassignment6\obj\Debug\netcoreapp3.1\csharpassignment6.csproj.CoreCompileInputs.cache
+C:\Users\BITTALUK\source\repos\csharpassignment6\csharpassignment6\bin\Debug\netcoreapp3.1\csharpassignment6.exe
+C:\Users\BITTALUK\source\repos\csharpassignment6\csharpassignment6\bin\Debug\netcoreapp3.1\csharpassignment6.deps.json
+C:\Users\BITTALUK\source\repos\csharpassignment6\csharpassignment6\bin\Debug\netcoreapp3.1\csharpassignment6.runtimeconfig.json
+C:\Users\BITTALUK\source\repos\csharpassignment6\csharpassignment6\bin\Debug\netcoreapp3.1\csharpassignment6.runtimeconfig.dev.json
+C:\Users\BITTALUK\source\repos\csharpassignment6\csharpassignment6\bin\Debug\netcoreapp3.1\csharpassignment6.dll
+C:\Users\BITTALUK\source\repos\csharpassignment6\csharpassignment6\bin\Debug\netcoreapp3.1\csharpassignment6.pdb
+C:\Users\BITTALUK\source\repos\csharpassignment6\csharpassignment6\obj\Debug\netcoreapp3.1\csharpassignment6.dll
+C:\Users\BITTALUK\source\repos\csharpassignment6\csharpassignment6\obj\Debug\netcoreapp3.1\csharpassignment6.pdb
+C:\Users\BITTALUK\source\repos\csharpassignment6\csharpassignment6\obj\Debug\netcoreapp3.1\csharpassignment6.genruntimeconfig.cache
